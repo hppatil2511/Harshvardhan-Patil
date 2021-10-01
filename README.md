@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hppatil2511
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Harshvardhan Patil ,5+ Experiance in Software Testing (Functional+Automation)
+- 👀 I’m interested in Selenium,Cypress,Java,Rest 
+- 🌱 I’m currently learning RestAssured,Appium
+- 💞️ I’m looking to collaborate on Automation Project
+- 📫 How to reach me hppatil2511@gmail.com
 
 <!---
 hppatil2511/hppatil2511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
