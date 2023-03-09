@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Harshvardhan Patil ,5+ Experiance in Software Testing (Functional+Automation)
-- 👀 I’m interested in Selenium,Cypress,Java,Rest 
+- 👋 Hi, I’m Harshvardhan Patil ,7+ Experiance in Software Testing (Functional+Automation)
+- 👀 I’m interested in Selenium,Cypress,Java,Rest Assured
 - 🌱 I’m currently learning RestAssured,Appium
 - 💞️ I’m looking to collaborate on Automation Project
 - 📫 How to reach me hppatil2511@gmail.com
